@@ -1,0 +1,29 @@
+name: riverpod_full_architecture
+description: A complete Flutter clean architecture using Riverpod, Firebase, Dio, Sqflite, and SharedPreferences.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.2
+  dio: ^5.4.2
+  shared_preferences: ^2.3.2
+  sqflite: ^2.3.2
+  path: ^1.9.0
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env

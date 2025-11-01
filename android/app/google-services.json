@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417882368274",
+    "project_id": "kuvaka-tech-project-aasimahmad",
+    "storage_bucket": "kuvaka-tech-project-aasimahmad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417882368274:android:8453ab42b254a88c5cabcb",
+        "android_client_info": {
+          "package_name": "com.example.kuvaka_tech_project_aasim_ahmad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1cXZglM4AWULeojWriVa44z4fXaUYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
